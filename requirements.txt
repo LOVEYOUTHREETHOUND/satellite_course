@@ -1,7 +1,9 @@
-h3
-folium
-numpy
-matplotlib
-ipywidgets
-jupyterlab
-
+h3==4.3.1
+folium==0.20.0
+numpy==2.3.5
+matplotlib==3.10.7
+ipywidgets==8.1.8
+jupyterlab==4.4.10
+requests==2.32.5
+Pillow==12.0.0
+networkx
